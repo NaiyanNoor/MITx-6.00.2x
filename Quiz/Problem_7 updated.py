@@ -20,7 +20,7 @@ def f(x):
     return x == 0
 print(solveit(f))
 
-You are not allowed to import anything. Do not leave any debugging print stataments. Click "See full output" to see the test cases passed/failed.
+## You are not allowed to import anything. Do not leave any debugging print stataments. Click "See full output" to see the test cases passed/failed.
 
 
 def solveit(test):
